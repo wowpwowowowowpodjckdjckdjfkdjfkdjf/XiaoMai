@@ -1,4 +1,4 @@
-# XiaoMai
+# Electronic Ticketing System：XiaoMai
 
 Electronic Ticketing System  
 Software Engineering Course Assignment, 2022  
