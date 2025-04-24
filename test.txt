@@ -1,1 +1,1 @@
-try get fetch and git merge.
+A test file to try get fetch and git merge.
