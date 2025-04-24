@@ -1,2 +1,5 @@
 # XiaoMai
-成电数院2022级软件工程课程作业 - 电子票务系统
+
+Electronic Ticketing System  
+Software Engineering Course Assignment, 2022  
+University of Electronic Science and Technology of China
